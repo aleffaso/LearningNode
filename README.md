@@ -20,7 +20,7 @@ I have used these techonologies below
 - Clone the repository
 - Run `yarn` to download the dependencies
 - Run `yarn typeorm migration:run` to create data base
-- Run o `yarn dev` to start the application
+- Run `yarn dev` to start the application
 
 It will be available at `http://localhost:3000`
 
